@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(104, 224, 246);
+    background: linear-gradient(135deg, #6ecc0a, #17b4cc);
 }
 .card{
     width: 90%;
